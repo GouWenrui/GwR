@@ -1,2 +1,2 @@
-# GwR
-Graph with Residue-Based End-to-End Framework
+# Graph with Residue-Based Cross-Modal Framework
+
